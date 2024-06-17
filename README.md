@@ -1,8 +1,22 @@
-# React + Vite
+# Book Search Engine
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This site is an application built using React.js. My portfolio exists to allow others to learn more about me and the projects I've developed. 
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [Technologies Used](#technologies-used)
+- [Installation/Usage](#installation-usage)
+- [Deployment](#deployment)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React
+
+## Installation/Usage
+
+Simply follow the link provided to the website to learn more about me and my experience. 
+
+## Deployment
+
+[Book Search Engine](https://book-search-engine-882a.onrender.com/)
